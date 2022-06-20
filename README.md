@@ -9,8 +9,8 @@ outputf.out: The file where the output will be displayed.
 Now, perform the following steps:
 
 Select View > Layout > Columns : 3. This will create three columns in the workspace. Move the three files into three columns.
-Select View > Groups > Max Columns : 2.
-Select the build system we just created from Tools > Build System > CP.
+Select View > Groups > Max Columns : 
+2. Select the build system we just created from Tools > Build System > CP.
 Below is the image to illustrate the same:
 Precompile Headers:
 The compilation time can speed up by precompiling all the header files i.e., by precompiling the bits/stdc++.h header file. Perform the following steps for doing so:
